@@ -12,7 +12,7 @@
 | プロジェクト | 概要 | 見せたい強み | リンク |
 | --- | --- | --- | --- |
 | **① 運営指導前チェック支援AI （Care Compliance Copilot）** | 訪問介護事業所の運営指導前チェックを支援するAI活用MVP。書類不備・期限切れ・記録不一致を検知し、AI下書き候補と職員確認ログを組み合わせた業務フローを検証。 | 現場課題の構造化 / AI活用による業務フロー設計 / MVP実装力 | [GitHub](https://github.com/toru-nishiwaki/care-compliance-copilot) ・ [Streamlitデモ](https://care-compliance-copilot-portfolio.streamlit.app/) |
-| **② 計画書・介護記録レビュー支援PoC<br>(Care Plan & Record Review Support PoC)** | 訪問介護計画書、日々の介護記録、モニタリング記録を統合し、計画との差・状態変化候補・確認優先度を整理する業務支援PoC。 | 現場課題の再定義 / ルールベース設計 / Human-in-the-loop / CSV連携 | [GitHub](https://github.com/toru-nishiwaki/dementia-risk-prediction)・[Streamlitデモ](https://care-plan-record-review.streamlit.app) |
+| **② 計画書・介護記録レビュー支援PoC<br>(Care Plan & Record Review Support PoC)** | 訪問介護計画書、日々の介護記録、モニタリング記録を統合し、計画との差・状態変化候補・確認優先度を整理する業務支援PoC。 | 現場課題の再定義 / ルールベース設計 / Human-in-the-loop / CSV連携 |[GitHub](https://github.com/toru-nishiwaki/care-plan-record-review)・[Streamlitデモ](https://care-plan-record-review.streamlit.app) |
 | **③ 訪問介護シフト改善シミュレーション （Home Care Shift Optimization）** | 訪問介護の移動時間・時間重複・スタッフ負担を考慮し、現場制約を反映したシフト改善を検証した最適化ポートフォリオ。 | 業務改善 / 制約条件の整理 / 最適化の考え方 | [GitHub](https://github.com/toru-nishiwaki/home-care-shift-optimization) ・ [Streamlitデモ](https://home-care-shift-optimization-portfolio.streamlit.app/) |
 
 ---
